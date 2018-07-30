@@ -1,5 +1,5 @@
 ymlSetting:
-  message: "Hello application-configprop!"
-  common:
-    key1: "common-dev-value1"
-    key2: "common-dev-value2"
+  stringKey: "なにかしらの文字列"
+  mapA:
+    key1: "value1"
+    key2: "value2
