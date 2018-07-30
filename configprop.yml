@@ -1,4 +1,4 @@
-server.message: "Hello client!"
+server.message: "Hello client!ConfigProp"
 server.port: "8081"
 management.endpoints.web.exposure.include: "refresh"
 logging.level.org.springframework.security: "trace"
