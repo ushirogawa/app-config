@@ -1,5 +1,4 @@
-ymlSetting:
-  stringKey: "なにかしらの文字列"
-  mapA:
-    key1: "value1"
-    key2: "value2
+message: "Hello client!"
+server.port: "8081"
+management.endpoints.web.exposure.include: "refresh"
+logging.level.org.springframework.security: "trace"
